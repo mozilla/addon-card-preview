@@ -1,3 +1,10 @@
+
+# Add-on Preview
+
+This is a quick prototype to explore how a card preview for addons.mozilla.org
+might work to be able to communicate planned changes around content lengths
+to developers.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
