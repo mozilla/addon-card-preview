@@ -6,7 +6,7 @@
   },
   "headers": {
     "/**": {
-      "Content-Security-Policy": "default-src 'none'; script-src 'self'; img-src 'self' https://addons.cdn.mozilla.net/user-media/addon_icons/; connect-src https://addons.mozilla.org/api/v4; style-src 'self'; frame-ancestors 'none';",
+      "Content-Security-Policy": "default-src 'none'; script-src 'self'; img-src 'self' https://addons.cdn.mozilla.net/user-media/addon_icons/; connect-src https://addons.mozilla.org/api/v4/; style-src 'self'; frame-ancestors 'none';",
       "Strict-Transport-Security": "max-age=7776000"
     }
   }
