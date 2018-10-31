@@ -1,5 +1,5 @@
 
-# Add-on Preview
+# Add-on Card Preview
 
 This is a quick prototype to explore how a card preview for addons.mozilla.org
 might work to be able to communicate planned changes around content lengths
