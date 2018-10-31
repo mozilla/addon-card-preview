@@ -11,6 +11,6 @@ to developers.
 * `yarn install`
 * `yarn start`
 
-## Deployment is via heroku CLI and this assumes you have the branch setup:
+## Deployment is via heroku CLI - this assumes you have the branch setup:
 
-* git push heroku master
+* `git push heroku master`
