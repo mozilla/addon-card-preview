@@ -1,4 +1,6 @@
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # Add-on Card Preview
 
 This is a quick prototype to explore how a card preview for addons.mozilla.org
